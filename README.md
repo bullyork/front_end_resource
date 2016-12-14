@@ -36,3 +36,4 @@
 - [微信小程序](https://github.com/Aufree/awesome-wechat-weapp/blob/master/README.md?from=timeline&isappinstalled=0)
 - [视觉](http://www.tonyhewitt.com/)
 - [What, Exactly, Makes Something A Progressive Web App?](https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/)
+- [license](https://web.liferay.com/zh/community/forums/-/message_boards/message/4775410)
