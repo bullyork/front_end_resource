@@ -40,3 +40,5 @@
 - [tcp/ip协议](http://www.6gdown.com/softedupage/59922.html)
 - [FRP函数反应式编程](http://www.infoq.com/cn/articles/functional-reactive-programming)
 - [reacttraining](https://github.com/reacttraining)
+- [如何用 JavaScript 下载文件](https://scarletsky.github.io/2016/07/03/download-file-using-javascript/)
+- [ajax处理流数据] http://www.cnblogs.com/cdemo/p/5225848.html
