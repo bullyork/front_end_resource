@@ -39,3 +39,4 @@
 - [license](https://web.liferay.com/zh/community/forums/-/message_boards/message/4775410)
 - [tcp/ip协议](http://www.6gdown.com/softedupage/59922.html)
 - [FRP函数反应式编程](http://www.infoq.com/cn/articles/functional-reactive-programming)
+- [reacttraining](https://github.com/reacttraining)
