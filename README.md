@@ -37,3 +37,5 @@
 - [视觉](http://www.tonyhewitt.com/)
 - [What, Exactly, Makes Something A Progressive Web App?](https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/)
 - [license](https://web.liferay.com/zh/community/forums/-/message_boards/message/4775410)
+- [tcp/ip协议](http://www.6gdown.com/softedupage/59922.html)
+- [FRP函数反应式编程](http://www.infoq.com/cn/articles/functional-reactive-programming)
